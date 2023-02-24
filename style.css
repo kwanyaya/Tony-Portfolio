@@ -379,10 +379,12 @@ section#services{
         overflow: hidden;
         box-shadow: 0 0 1.6rem var(--color-primary-variant);
         transition: all 400ms ease;
+        cursor: zoom-in;
 }
 
 .portfolio-projects-images:hover{
             box-shadow: none;
+            transform: scale(1.1);
 }
 
 .portfolio-projects-images img{
