@@ -316,13 +316,14 @@ section#companies{
 
 .companies-container{
         display:grid;
-        grid-template-columns: repeat(6,1fr);
+        grid-template-columns: repeat(4,1fr);
         align-items: center;
-        gap: 2rem;
+        gap: 1rem;
 }
 
 .companies-container span{
         padding: 2.4rem;
+
 }
 
 
