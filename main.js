@@ -102,6 +102,12 @@ document.addEventListener("DOMContentLoaded", function() {
                 githubLink: "https://github.com/kwanyaya/Miss-Dior-Parfums",
                 liveDemoLink: "https://kwanyaya.github.io/Miss-Dior-Parfums/"
             }
+            ,{
+                title: "HKJC Derby",
+                imgSrc: "images/demo/hkjc_derby.png",
+                githubLink: "https://github.com/kwanyaya/HKJC-Derby",
+                liveDemoLink: "https://kwanyaya.github.io/HKJC-Derby/"
+            }
         ];
     
         const portfolioProjectsContainer = document.querySelector(".portfolio-projects");
