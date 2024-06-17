@@ -48,6 +48,7 @@ document.addEventListener("DOMContentLoaded", function() {
             "images/company/hkjc.png",
             "images/company/hermes.png",
             "images/company/tager.jpeg",
+            "images/company/rm.png",
         
         ];
     
@@ -67,33 +68,39 @@ document.addEventListener("DOMContentLoaded", function() {
         const projects = [
             {
                 title: "Chrome Dino Game",
-                imgSrc: "images/kwanyaya.github.io_Chrome_Dino_Game_.png",
+                imgSrc: "images/demo/dino_game.png",
                 githubLink: "https://github.com/kwanyaya/Chrome_Dino_Game",
                 liveDemoLink: "https://kwanyaya.github.io/Chrome_Dino_Game"
             },
             {
                 title: "Tesla Homepage Clone",
-                imgSrc: "images/127.0.0.1_5500_index.html.png",
+                imgSrc: "images/demo/telsa_clone.png",
                 githubLink: "https://github.com/kwanyaya/Telsa-homepage-clone",
                 liveDemoLink: "https://kwanyaya.github.io/Telsa-homepage-clone"
             },
             {
                 title: "Responsive Admin Dashborad",
-                imgSrc: "images/kwanyaya.github.io_Admin-Dashborad_ (2).png",
+                imgSrc: "images/demo/admin_dashborad.png",
                 githubLink: "https://github.com/kwanyaya/Admin-Dashborad",
                 liveDemoLink: "https://kwanyaya.github.io/Admin-Dashborad/"
             },
             {
-                title: "Responsive Multipage Education Website",
-                imgSrc: "images/kwanyaya.github.io_Responsive-Multipage-Education-Website_index.html (2).png",
+                title: "Responsive Multipage Edu Website",
+                imgSrc: "images/demo/responsive_edu_web.png",
                 githubLink: "https://github.com/kwanyaya/Responsive-Multipage-Education-Website",
                 liveDemoLink: "https://kwanyaya.github.io/Responsive-Multipage-Education-Website/index.html"
             },
             {
                 title: "Bootstrap Portfolio",
-                imgSrc: "images/bootstrap portfolio.png",
+                imgSrc: "images/demo/bootstrap_portfolio.png",
                 githubLink: "https://github.com/kwanyaya/Bootstarp-Portfolio",
                 liveDemoLink: "https://kwanyaya.github.io/Bootstarp-Portfolio/"
+            },
+            {
+                title: "Miss Dior Parfums",
+                imgSrc: "images/demo/miss_dior.png",
+                githubLink: "https://github.com/kwanyaya/Miss-Dior-Parfums",
+                liveDemoLink: "https://kwanyaya.github.io/Miss-Dior-Parfums/"
             }
         ];
     
