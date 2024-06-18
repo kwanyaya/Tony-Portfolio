@@ -279,8 +279,8 @@ header{
 }
 
 .header-right-bg{
-        width: 70rem;
-        height: 70rem;
+        width: 65rem;
+        height: 65rem;
         background-color: var(--color-primary);
         border-radius: 50%;
         right: -30rem;
