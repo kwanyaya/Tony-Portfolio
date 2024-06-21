@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Chrome Dino Game",
+        "imgSrc": "images/demo/dino_game.png",
+        "githubLink": "https://github.com/kwanyaya/Chrome_Dino_Game",
+        "liveDemoLink": "https://kwanyaya.github.io/Chrome_Dino_Game"
+    },
+    {
+        "title": "Responsive Admin Dashborad",
+        "imgSrc": "images/demo/admin_dashborad.png",
+        "githubLink": "https://github.com/kwanyaya/Admin-Dashborad",
+        "liveDemoLink": "https://kwanyaya.github.io/Admin-Dashborad/"
+    },
+    {
+        "title": "Responsive Multipage Edu Website",
+        "imgSrc": "images/demo/responsive_edu_web.png",
+        "githubLink": "https://github.com/kwanyaya/Responsive-Multipage-Education-Website",
+        "liveDemoLink": "https://kwanyaya.github.io/Responsive-Multipage-Education-Website/index.html"
+    },
+    {
+        "title": "Bootstrap Portfolio",
+        "imgSrc": "images/demo/bootstrap_portfolio.png",
+        "githubLink": "https://github.com/kwanyaya/Bootstarp-Portfolio",
+        "liveDemoLink": "https://kwanyaya.github.io/Bootstarp-Portfolio/"
+    },
+    {
+        "title": "Miss Dior Parfums",
+        "imgSrc": "images/demo/miss_dior.png",
+        "githubLink": "https://github.com/kwanyaya/Miss-Dior-Parfums",
+        "liveDemoLink": "https://kwanyaya.github.io/Miss-Dior-Parfums/"
+    },
+    {
+        "title": "HKJC Derby",
+        "imgSrc": "images/demo/hkjc_derby.png",
+        "githubLink": "https://github.com/kwanyaya/HKJC-Derby",
+        "liveDemoLink": "https://kwanyaya.github.io/HKJC-Derby/"
+    }
+]

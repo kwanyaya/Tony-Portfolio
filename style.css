@@ -6,6 +6,7 @@
         text-decoration: none;
         box-sizing: border-box;
         list-style: none;
+        /* outline: auto red; */
 
 }
 
@@ -63,6 +64,11 @@ h1, h2, h3, h4, h5{
 
 h1 {
         font-size: 4.4rem;
+        line-height: 1.1;
+}
+
+h2 {
+        font-size: 1.4rem;
         line-height: 1.1;
 }
 
@@ -161,7 +167,6 @@ nav a:hover{
         display: flex;
         justify-content: space-between;
         align-items: center;
-        
 }
 
 nav button{
@@ -171,7 +176,7 @@ nav button{
 .mode{
         display: flex;
         justify-content: end;
-        right: 0;
+        right: 1rem;
         top: 1;
         gap: 2rem;
         position: absolute;
@@ -854,6 +859,10 @@ header{
         grid-template-columns: 1fr;
         margin-top: 4.4rem;
         gap: 0;
+}
+
+.header-right{
+        display: none;
 }
 
 .header-right-bg{

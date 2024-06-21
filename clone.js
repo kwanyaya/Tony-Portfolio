@@ -1,19 +1,19 @@
 document.addEventListener("DOMContentLoaded", function() {
-    fetch('./data/app.json')
+    fetch('./data/clone.json')
         .then(response => response.json())
-        .then(app => {
+        .then(clone => {
             const portfolioProjectsContainer = document.querySelector(".portfolio-projects");
 
-            app.forEach(app => {
+            clone.forEach(clone => {
                 const article = document.createElement("article");
                 article.classList.add("portfolio-project");
 
                 article.innerHTML = `
-                    <div class="tesla"><h2>${app.title}</h2></div>
-                    <span class="portfolio-projects-images"><img src="${app.imgSrc}"></span>
+                    <div class="tesla"><h2>${clone.title}</h2></div>
+                    <span class="portfolio-projects-images"><img src="${clone.imgSrc}"></span>
                     <div class="portfolio-cta">
-                        <a href="${app.githubLink}" target="_blank" class="btn">Github</a>
-                        <a href="${app.liveDemoLink}" target="_blank" class="btn btn-primary">Live Demo</a>
+                        <a href="${clone.githubLink}" target="_blank" class="btn">Github</a>
+                        <a href="${clone.liveDemoLink}" target="_blank" class="btn btn-primary">Live Demo</a>
                     </div>
                 `;
 
