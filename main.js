@@ -49,6 +49,7 @@ document.addEventListener("DOMContentLoaded", function() {
             "images/company/hermes.png",
             "images/company/tager.jpeg",
             "images/company/rm.png",
+            "images/company/ssf.jpg",
         
         ];
     
